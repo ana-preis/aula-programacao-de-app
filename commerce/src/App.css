@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  background-color: rgb(230, 230, 230);
+  padding: 5%;
+  margin: 0 auto;
+  width: 10%;
+  min-width: 270px;
+  border-radius: 8px;
+}
+
+.btn {
+  padding: 5px 10px;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+.btn-enviar {
+  margin: 15px 0 5px 0;
+}
+
+label, input {
+  font-size: 18px;
+}
+
+.label-filtro {
+  font-style: italic;
+  margin: 20px 0;
+}
+
+.lista {
+  margin: 10px 0;
+}
